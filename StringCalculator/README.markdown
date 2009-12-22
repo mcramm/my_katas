@@ -3,7 +3,7 @@
 * * *
 
 This kata was done in Ruby. The following steps from the above URL were **NOT** done:
-* Step 7
-* Step 8
+	* Step 7
+	* Step 8
 
 These Steps deal with having multiple delimiters. I am still trying to figure out a good way of doing these without 20+ lines of rough code
